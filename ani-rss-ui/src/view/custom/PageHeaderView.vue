@@ -57,6 +57,8 @@ defineProps({
   display: flex;
   align-items: center;
   margin-left: auto;
+  justify-content: flex-end;
+  height: 100%;
 }
 
 @media (max-width: 560px) {
